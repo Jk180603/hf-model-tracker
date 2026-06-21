@@ -1,0 +1,10 @@
+huggingface-hub
+requests
+pandas
+sqlalchemy
+fastapi
+uvicorn
+python-dotenv
+plotly
+streamlit
+psycopg2-binary

@@ -1,0 +1,13 @@
+{
+  "total_models_analyzed": 100,
+  "actively_maintained_pct": 20.0,
+  "generated_at": "2026-06-21T22:14:34.936890",
+  "most_popular_task": {
+    "task": "sentence-similarity",
+    "downloads": 419874307
+  },
+  "most_popular_architecture": {
+    "architecture": "bert",
+    "downloads": 595264935
+  }
+}
